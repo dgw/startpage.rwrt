@@ -60,4 +60,4 @@ The part between ```?``` and ```=``` is the name of the ```GET``` argument, this
 The third position can be any string really. I suggest you choose something descriptive here, like "Google".
 
 ### style/style.css
-If you know CSS, edit to your heart's contempt.
+If you know CSS, edit to your heart's content.
